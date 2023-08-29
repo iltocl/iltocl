@@ -1,4 +1,9 @@
-### Hi there 👋
+1st year Computer Science PhD Student
+
+- 🌱 I’m currently learning/working on Natural Language Processing (NLP) and Language & Vision areas
+- 
+
+
 
 <!--
 **iltocl/iltocl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

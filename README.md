@@ -1,6 +1,4 @@
-Loading... Computer Science PhD 
-
-Status: 16%
+1st year Computer Science PhD student
 
 - 🌱 I’m currently learning/working on Natural Language Processing (NLP) and Language & Vision areas
 

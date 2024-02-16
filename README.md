@@ -1,4 +1,4 @@
-1st year Computer Science PhD student
+2nd year Computer Science PhD student
 
 - 🌱 I’m currently learning/working on Natural Language Processing (NLP) and Language & Vision areas
 
